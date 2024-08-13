@@ -9,7 +9,8 @@ df = pd.DataFrame(data)
 # Calculate the mean age, skipping NaN values 
 mean_age = df['Age'].mean()
 
-# Fill missing values in 'Age' column with the mean age 
+# Fill missing values in 'Age' column with the mean age.
+# 'inplace=True' modifies the original dataframe directly.
 df['Age'].fillna(mean_age, inplace=True)
 
 print(df)
