@@ -1,0 +1,9 @@
+Lab Progress Report: 
+	- The document has been created in Google Docs
+	- All possible codes to be done has been searched, compared and listed in "Lab Work Complete" file
+
+To Do: 
+	- Get all the codes from "Lab Work Complete" file into VS Code
+	- Modify the code variables names and some formats
+	- Make them executable and structure them
+	- Present those codes and outputs in Google Docs file
